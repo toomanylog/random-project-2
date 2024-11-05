@@ -1,5 +1,5 @@
 
-# random-project-3
+# random-project-2
 
 This is a sample project generated for GitHub activity simulation.
 
